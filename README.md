@@ -67,7 +67,9 @@ Accessing the Services:
             | default   | hello-service |             | http://127.0.0.1:54144 |
             |-----------|---------------|-------------|------------------------|
 
-<img width="1464" alt="Screenshot (241)" src="">
+<img width="1464" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/c1d378d6-b6d6-47df-90e4-8a228e29a75c">
+![Screenshot (241)](https://github.com/user-attachments/assets/c1d378d6-b6d6-47df-90e4-8a228e29a75c)
+
 
 
             http://127.0.0.1:54144/hello - Displays "Hello"
