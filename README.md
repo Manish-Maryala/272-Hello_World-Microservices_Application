@@ -68,7 +68,7 @@ Accessing the Services:
             |-----------|---------------|-------------|------------------------|
 
 <img width="1464" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/c1d378d6-b6d6-47df-90e4-8a228e29a75c">
-![Screenshot (241)](https://github.com/user-attachments/assets/c1d378d6-b6d6-47df-90e4-8a228e29a75c)
+
 
 
 
@@ -84,7 +84,9 @@ Accessing the Services:
            | default   | world-service |             | http://127.0.0.1:53941 |
            |-----------|---------------|-------------|------------------------|
             
-<img width="1456" alt="Screenshot (240)" src="">
+<img width="1456" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/3b5f7516-7ab6-4c3b-815e-c57ceb243f89">
+
+
 
             http://127.0.0.1:53941/world - Displays "World"
             
